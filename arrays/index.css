@@ -1,0 +1,28 @@
+.principal{
+
+background-color: #87CEEB;
+width: 600px;
+height: 600px;
+padding-left: 50px;
+padding-top: 50px;
+margin: auto;
+}
+
+.frm{
+	background-color: #ffffff;
+	width: 400px;
+	margin: auto;
+}
+
+p.id1{
+
+	color:red;
+	padding-top: 40px
+}
+
+p.dotted{
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-bottom-width: 10px;
+	border-top-width: 50px;
+}
