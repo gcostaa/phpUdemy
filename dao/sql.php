@@ -7,7 +7,7 @@ class sql extends PDO
     public function __construct()
     {
         echo "oiins<br>";
-        $this->con = new PDO("mysql:localhost;dbname=dbphp7","root","");
+        $this->con = new PDO("mysql:host=localhost;dbname=dbphp7","root","");
     }
 
      //prepara varios parametros e chama o setParam
