@@ -1,0 +1,17 @@
+{
+    "name": "gustavo/composer",
+    "description": "Estudos PHP",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Gustavo Costa",
+            "email": "gustavokc05061999@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+        "monolog/monolog":"1.0.*"
+
+    }
+}
